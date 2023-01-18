@@ -1,0 +1,31 @@
+To run the React code on another computer, follow these instructions:
+
+1- Make sure Node.js and npm (Node Package Manager) are installed on the computer. You can download them from the official website https://nodejs.org/en/
+
+2- Download the code from folder /capx to your computer.
+
+3- Open a terminal or command prompt and navigate to the project folder.
+
+4- Run the command:
+    npm install 
+   to install all the dependencies required for the project.
+
+5- Run the command:
+    npm start 
+   to start the development server.
+
+6- Open a web browser and go to the URL http://localhost:3000 to view the project.
+
+
+7- Run the command 
+    npm run build 
+   to build the production version of the code in build folder.
+
+8- Run the command
+    npm run test
+   torun test function
+
+
+
+The built version of app is ready to deploy in any server from folder /capx-build or just open index.html in browser to use app.
+
